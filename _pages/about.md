@@ -14,6 +14,10 @@ I gradutated from Shanghai Jiao Tong University with a bachelor's degree in Elec
 
 My research experience in HCI involves accessibility, online communities, and human-AI related systems for health. My current research interest is in human-AI technology for accesssibility, workplace efficiency and wellness.
 
+
+See more in my most recent [CV](https://docs.google.com/document/d/11h2NHufHS9dqmq_63awESKac9Ggf8F20/edit?usp=sharing&ouid=108801050710662744092&rtpof=true&sd=true)
+and [Portfolio](https://ziqis-portfolio.webflow.io/)
+
 {% comment %} 
    # Research
 {% endcomment %}
