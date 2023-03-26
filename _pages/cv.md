@@ -118,6 +118,8 @@ Jan. 2023 - Mar. 2023
 - Designed key features for big data tool Data Lake Studio and provided feedback on usability and functionality
 - Do competitor analysis and product design for Data Lake Studio, design and implement data pipeline and access control UX and front-end solutions, meet with different engineering teams to discuss feature specifications for product launch
 - Improve product documents and key features for Rheos messaging and streaming platform by analyzing customer feedback and negotiating with development team 
+
+
 ## Microsoft Corporation
 UX Designer Intern
 Shanghai, China
@@ -125,6 +127,8 @@ May 2022 – Aug. 2022
 - Goal: Improved users’ operational efficiency and promoted customer success in supply chain management
 - Contribution: Worked on 2 individual design projects in C+AI Dynamics 365, designed configuration features from 0 to 1 and redesigned the overall page layout for more than 5 features based on product specs, one-pager and UX design methods; Iterated drafts and mid-fidelity prototypes, delivered 2 hi-fidelity clickable prototypes to be launched in 2023
 - Collaboration: Negotiated use cases and design with program manager and engineers, validated user needs and pain points
+
+
 ## Hangzhou InfoCore Technology
 Software Development Intern
 
