@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ziqi Yang"
-  avatar           : images/profile-202308.jpg
+  avatar           : "profile-202308.jpg"
   bio              : "Researching in Human-Computer Interaction"
   location         : "Ann Arbor, MI"
   employer         : "Microsoft, eBay, Red"
