@@ -22,11 +22,11 @@ and [Portfolio](https://ziqis-portfolio.webflow.io/)
 
 
 # Research Highlights
-<p float="left">
+<!-- <p float="left">
   <img src="/img1.png" width="100" />
   <img src="/img2.png" width="100" /> 
   <img src="/img3.png" width="100" />
-</p>
+</p> -->
 
 Talk2Care: Asynchronous Patient-Provider Communication with Large-Language Model [Submitted to CHI'24]
 [PDF](https://),[Video](https://)
