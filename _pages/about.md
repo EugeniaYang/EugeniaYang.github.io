@@ -16,7 +16,7 @@ I gradutated from Shanghai Jiao Tong University with a bachelor's degree in Elec
 
 My research interests lie broadly in HCI, involving human-AI collaboration, social computing and accessibility for health and well-being, computer supported collaborative work, and education practices.
 
-See more in my most recent [CV](https://docs.google.com/document/d/11h2NHufHS9dqmq_63awESKac9Ggf8F20/edit?usp=sharing&ouid=108801050710662744092&rtpof=true&sd=true)
+See more in my most recent [CV](https://drive.google.com/file/d/1ggkMv91eKKnzhTDc-A9h21wX5kKpOXSL/view?usp=sharing)
 and [Portfolio](https://ziqis-portfolio.webflow.io/)
 
 
@@ -28,13 +28,14 @@ and [Portfolio](https://ziqis-portfolio.webflow.io/)
 </p> -->
 
 Talk2Care: Asynchronous Patient-Provider Communication with Large-Language Model [Submitted to CHI'24]
-[PDF](https://),[Video](https://)
+[PDF](https://arxiv.org/abs/2309.09357)
+<!-- ,[Video](https://) -->
 - Human-AI Collaboration / Communication / Clinical
 - Advisor: Professor Dakuo Wang, Northeastern University
 - Working with Dr. Xuhai Xu, Bingsheng Yao, Shao Zhang, Ethan Rogers, and many great collaborators!
 
 
-A Pre-study of The Effects of Empathy and Personality of Chatbots on Increasing The Intention of Chatbot Continuance [PDF](https://)
+A Pre-study of The Effects of Empathy and Personality of Chatbots on Increasing The Intention of Chatbot Continuance [PDF]([https://](https://drive.google.com/file/d/1R8OSR61UOyUseOvf2t_uAYz-JDCtbojh/view?usp=drive_link))
 - Personal Health Interventions / Human Factors / Chatbots / mHealth
 - Advisor: Professor Mark Newman, Professor Pedja Klasnja, University of Michigan, Ann Arbor
 - Working with PhD student Yuxuan Li at UMSI
