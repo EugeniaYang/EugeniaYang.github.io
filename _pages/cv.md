@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Ziqi's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,28 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-# EDUCATION
-## University of Michigan, Ann Arbor
+## EDUCATION
+### University of Michigan, Ann Arbor
 Master of Science in Information (User Experience/Human-Computer Interaction) (GPA: 3.92/4.0)
 Ann Arbor, MI
 Aug. 2021 - Present
 
 - Coursework: Needs Assessment and Usability Evaluation(A+), Interaction Design(A), Online Communities(A), Intro to Accessibility(A-), Intro to XR Application Design(A), Designing Mobile Applications(A)
 
-## University of California, Berkeley
+### University of California, Berkeley
 Visiting Student (GPA: 4.0/4.0)
 Remote due to COVID
 Jan. 2021 - May 2021
 - Coursework: Intro to Sociology(A), Intro to Linguistics(A)
 
-## Shanghai Jiao Tong University
+### Shanghai Jiao Tong University
 Bachelor of Science in Electrical and Computer Engineering (GPA: 3.3/4.0)
 Shanghai, China
 Sept. 2018 - Aug. 2022
 - Coursework: AI Interaction Technologies, Ergonomics, Probability and Statistics, Data Structure and Algorithms, Methods and Tools for Big Data, Networks, Computer 
 
-# RESEARCH EXPERIENCE
-## A Pre-study of The Effects of Empathy and Personality of Chatbots on Increasing The Intention of Chatbot Continuance
+## RESEARCH EXPERIENCE
+### A Pre-study of The Effects of Empathy and Personality of Chatbots on Increasing The Intention of Chatbot Continuance
 Health Informatics | Human Factors | Chatbots and AI | Interview and Survey
 
 Ann Arbor, MI
@@ -44,7 +44,7 @@ Oct. 2022 - Present
 
 
 
-## Facebook for People with Dementia - Critique and Redesign
+### Facebook for People with Dementia - Critique and Redesign
 Accessibility | Older Adults | Interaction Design
 
 Ann Arbor, MI
@@ -54,7 +54,7 @@ Oct. 2022 - Dec. 2022
 - Research Social Network Sites for older adults with dementia based on relevant literature review and desktop research
 - Critique and redesign Facebook features from 3 aspects: providing context, enhancing social connections and protecting privacy and autonomy; to improve accessibility for users with dementia
 
-## Bilibili/Cake-Making: An Online Community Analysis
+### Bilibili/Cake-Making: An Online Community Analysis
 Social Computing | Online Communities
 
 Ann Arbor, MI
@@ -65,16 +65,16 @@ Jan. 2022 - Mar. 2022
 - Uncover trends, interaction variation and ​​social etiquette by conducting community observation with a focus in bullet screens creator-creator, creator-audience interaction
 
 
-# PROJECT EXPERIENCE
+## PROJECT EXPERIENCE
 
 
-## Food Insecurity in the United States - Data Analysis and Visualization
+### Food Insecurity in the United States - Data Analysis and Visualization
 Student Data Analyst
 Ann Arbor, MI
 Feb. 2022 - Apr. 2022
 
 Based on datasets published by U.S. government departments, use python, altair, Tableau to analyze factors influencing food insecurity in the U.S., write reports and suggestions based on outcomes
-## Youth-Focused UM Website Optimization
+### Youth-Focused UM Website Optimization
 Student UX Researcher and Designer
 
 Ann Arbor, MI
@@ -82,20 +82,20 @@ Jan. 2022 - Apr. 2022
 
 Conducted surveys and interviews on young adults and researchers about website usage
 Redesigned the mobile and desktop experience of the info and recruiting website, make high-fidelity clickable prototype using Figma
-## Campus-Connect App Interaction Design
+### Campus-Connect App Interaction Design
 Student UX Researcher and Designer
 Ann Arbor, MI
 Oct. 2020 - Oct. 2021
 
 Design a mobile application to improve off-line social connection between university students from needs assessment, problem framing to making mid-fi prototype and testing
-## Illustration Website for SJTU Medical School Based on Big Data
+### Illustration Website for SJTU Medical School Based on Big Data
 Project Leader, Web Developer
 Shanghai, China
 Oct. 2020 - Oct. 2021
 Recruited and organized team members and project tasks to design and develop the website based on Vue and React framework with FastApi and MySql backend to process and illustrate statistical information
 
 
-## “The Magic Wand” as in Harry Potter Series Using AI Technologies
+### “The Magic Wand” as in Harry Potter Series Using AI Technologies
 Student Designer, Developer
 
 Shanghai, China
@@ -103,14 +103,14 @@ Mar. 2021 - Apr. 2021
 
 Build an interactive device that recognize multimodal user input and make sound/light effects like a magic wand proposed in novels by applying AI algorithms in Python to Arduino board, Raspberry Pi and relevant tool kit
 
-# WORK EXPERIENCE
-## Red (#67 in Social Networking on App Store)
+## WORK EXPERIENCE
+### Red (#67 in Social Networking on App Store)
 Product Manager Intern
 
 Shanghai, China
 Mar. 2023 - Present
 
-## eBay Software Engineering
+### eBay Software Engineering
 Product Manager Intern
 
 Shanghai, China
@@ -120,7 +120,7 @@ Jan. 2023 - Mar. 2023
 - Improve product documents and key features for Rheos messaging and streaming platform by analyzing customer feedback and negotiating with development team 
 
 
-## Microsoft Corporation
+### Microsoft Corporation
 UX Designer Intern
 Shanghai, China
 May 2022 – Aug. 2022
@@ -129,7 +129,7 @@ May 2022 – Aug. 2022
 - Collaboration: Negotiated use cases and design with program manager and engineers, validated user needs and pain points
 
 
-## Hangzhou InfoCore Technology
+### Hangzhou InfoCore Technology
 Software Development Intern
 
 
@@ -138,21 +138,20 @@ Software Development Intern
 Hangzhou, China
 Aug. 2021 - Sept. 2021
 - Research and implement new data transformation technology such as Soft-RoCE
-# HONORS AND AWARDS
-UM-SJTU JI Student Development Scholarship
-Team Leader of Aid Education
-Apr. 20212
-MCM Successful Participant
+## HONORS AND AWARDS
+- UM-SJTU JI Student Development Scholarship
+（Team Leader of Aid Education）- Apr. 20212
+- MCM Successful Participant
 
 
-# SKILLS
+## SKILLS
 
 
-Programming: Python, C++, Markdown, LaTex, JavaScript, CSS, HTML, SQL
-Framework: React, Django, Hadoop
-Software: Figma, Adobe Creative Cloud (XD, Illustrator, Photoshop), Miro, Unity, Unreal Engine
-Language: Chinese (Native), English (Professional), Spanish and Japanese (Beginner)
-Interests: Photography, Sketching, Travelling
-Skills: User interviews, User persona and scenario, Storyboard, Storytelling, Journey map, Prototype, Usability Test
+- Programming: Python, C++, Markdown, LaTex, JavaScript, CSS, HTML, SQL
+- Framework: React, Django, Hadoop
+- Software: Figma, Adobe Creative Cloud (XD, Illustrator, Photoshop), Miro, Unity, Unreal Engine
+- Language: Chinese (Native), English (Professional), Spanish and Japanese (Beginner)
+- Interests: Photography, Sketching, Travelling
+- Skills: User interviews, User persona and scenario, Storyboard, Storytelling, Journey map, Prototype, Usability Test
 
 
