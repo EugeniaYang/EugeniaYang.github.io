@@ -2,7 +2,7 @@
 
 Name Name:
   name        : "Ziqi Yang"
-  uri         : "http://eugeniayang.github.io/"
+  # uri         : "http://eugeniayang.github.io/
   email       : "yangziqi@umich.edu"
   bio         : "MS student in HCI"
   # avatar      : "bio-photo-2.jpg"

@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Researching in Human-Computer Interaction"
   location         : "Ann Arbor, MI"
-  employer         : Microsoft, eBay, Red
+  employer         : "Microsoft, eBay, Red"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : yangziqi@umich.edu
+  email            : "yangziqi@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
