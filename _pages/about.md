@@ -28,8 +28,7 @@ and [Portfolio](https://ziqis-portfolio.webflow.io/)
 </p> -->
 
 Talk2Care: Asynchronous Patient-Provider Communication with Large-Language Model [Submitted to CHI'24]
-[PDF](https://arxiv.org/abs/2309.09357)
-<!-- ,[Video](https://) -->
+[PDF](https://arxiv.org/abs/2309.09357),[Video]([https://](https://youtu.be/fMMDN7gZGjs))
 - Human-AI Collaboration / Communication / Clinical
 - Advisor: Professor Dakuo Wang, Northeastern University
 - Working with Dr. Xuhai Xu, Bingsheng Yao, Shao Zhang, Ethan Rogers, and many great collaborators!
