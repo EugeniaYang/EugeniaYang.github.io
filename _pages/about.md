@@ -41,12 +41,12 @@ A Pre-study of The Effects of Empathy and Personality of Chatbots on Increasing 
 
 
 Facebook for People with Dementia - Critique and Redesign
-- Accessibility | Older Adults | Interaction Design
+- Accessibility / Older Adults / Interaction Design
 - Supervisor: Dr. Robin Brewer, University of Michigan, Ann Arbor
 - [Project Paper](https://drive.google.com/file/d/1yKaZgQ0l5ZG7jOVQh-FoweCtiBrTROZ9/view?usp=share_link)
 
 Bilibili/Cake-Making: An Online Community Analysis
-- Social Computing | Online Communities
+- Social Computing / Online Communities
 - Supervisor: Dr. Nazanin Andalibi, University of Michigan, Ann Arbor
 - [Project Report](https://drive.google.com/file/d/1yKaZgQ0l5ZG7jOVQh-FoweCtiBrTROZ9/view?usp=share_link)
 
