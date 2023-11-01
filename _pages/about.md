@@ -40,7 +40,7 @@ A Pre-study of The Effects of Empathy and Personality of Chatbots on Increasing 
 - Working with PhD student Yuxuan Li at UMSI
 
 
-<!-- Facebook for People with Dementia - Critique and Redesign
+Facebook for People with Dementia - Critique and Redesign
 - Accessibility | Older Adults | Interaction Design
 - Supervisor: Dr. Robin Brewer, University of Michigan, Ann Arbor
 - [Project Paper](https://drive.google.com/file/d/1yKaZgQ0l5ZG7jOVQh-FoweCtiBrTROZ9/view?usp=share_link)
@@ -48,23 +48,23 @@ A Pre-study of The Effects of Empathy and Personality of Chatbots on Increasing 
 Bilibili/Cake-Making: An Online Community Analysis
 - Social Computing | Online Communities
 - Supervisor: Dr. Nazanin Andalibi, University of Michigan, Ann Arbor
-- [Project Report](https://drive.google.com/file/d/1yKaZgQ0l5ZG7jOVQh-FoweCtiBrTROZ9/view?usp=share_link) -->
+- [Project Report](https://drive.google.com/file/d/1yKaZgQ0l5ZG7jOVQh-FoweCtiBrTROZ9/view?usp=share_link)
 
 
-<!-- # UX Research and Design -->
+<!-- # UX Research and Design --> 
 
 <!-- I was/am previously 
 - a UX designer intern at Microsoft(C+AI) and 
 - product manager intern at eBay (Data Infrastructure) and Red 小红书. 
 
-I researched the needs and pain points for professionals such as supply chain managers, data engineers, as well as vast number of consumers on social media. I aimed to design and develop products and promotes working efficiency or content quality and addresses affordance with the help of algorithms. -->
+I researched the needs and pain points for professionals such as supply chain managers, data engineers, as well as vast number of consumers on social media. I aimed to design and develop products and promotes working efficiency or content quality and addresses affordance with the help of algorithms.
+-->
 
 
-
-{% comment %} 
+<!-- {% comment %} 
 # Skills and Interests
 
 
 I like photography, travelling, and (recently) gardening. Chat with me if you are interested!
 
-{% endcomment %}
+{% endcomment %} -->
