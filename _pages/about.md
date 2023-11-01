@@ -16,7 +16,7 @@ I gradutated from Shanghai Jiao Tong University with a bachelor's degree in Elec
 
 My research interests lie broadly in HCI, involving human-AI collaboration, social computing and accessibility for health and well-being, computer supported collaborative work, and education practices.
 
-See more in my most recent [CV](https://drive.google.com/file/d/1ggkMv91eKKnzhTDc-A9h21wX5kKpOXSL/view?usp=sharing)
+See more in my most recent [CV](https://drive.google.com/file/d/1eZlaWWHQk5GQgvViuQ01fzbv12fW7ODj/view?usp=sharing)
 and [Portfolio](https://ziqis-portfolio.webflow.io/)
 
 
