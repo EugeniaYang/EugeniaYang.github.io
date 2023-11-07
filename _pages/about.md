@@ -21,26 +21,57 @@ and [Portfolio](https://ziqis-portfolio.webflow.io/)
 
 
 # Research Highlights
-<!-- <p float="left">
-  <img src="/img1.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
-</p> -->
-
-Talk2Care: Asynchronous Patient-Provider Communication with Large-Language Model [Submitted to CHI'24]
-[PDF](https://arxiv.org/abs/2309.09357),[Video]([https://](https://youtu.be/fMMDN7gZGjs))
-- Human-AI Collaboration / Communication / Clinical
-- Advisor: Professor Dakuo Wang, Northeastern University
-- Working with Dr. Xuhai Xu, Bingsheng Yao, Shao Zhang, Ethan Rogers, and many great collaborators!
-
-
-A Pre-study of The Effects of Empathy and Personality of Chatbots on Increasing The Intention of Chatbot Continuance [PDF]([https://](https://drive.google.com/file/d/1R8OSR61UOyUseOvf2t_uAYz-JDCtbojh/view?usp=drive_link))
-- Personal Health Interventions / Human Factors / Chatbots / mHealth
-- Advisor: Professor Mark Newman, Professor Pedja Klasnja, University of Michigan, Ann Arbor
-- Working with PhD student Yuxuan Li at UMSI
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; float: center">
+    <img src="assets/../../assets/project_thumbnails/doctor-563428_1280.jpg" height="150" />
+  </div>
+  <div style="flex: 2; padding: 20px;">
+    <p style="margin-top: 0;"><strong>Ziqi Yang</strong>, Jiachen Li, Bingsheng Yao, Xuhai Xu, Nawar Shara, Guodong Gao, Dakuo Wang. 2023.
+Communication Challenges for Cancer Care and LLM Opportunities. (Work in Progress for CSCW’24)
+    </h3>
+    <ul style="list-style: disc; padding-left: 20px;">
+      <li>Advisor: Professor Dakuo Wang, Northeastern University</li>
+    </ul>
+  </div>
+</div>
 
 
-Facebook for People with Dementia - Critique and Redesign
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; float: center;">
+    <img src="assets/../../assets/project_thumbnails/talk2care.png" height="150" />
+  </div>
+  <div style="flex: 2; padding: 20px;">
+    <p style="margin-top: 0;"><strong>Ziqi Yang</strong>, Xuhai Xu, Bingsheng Yao, Shao Zhang, Ethan Rogers, Stephen Intille, Nawar Shara,
+Guodong (Gordon) Gao, and Dakuo Wang. 2023. Talk2Care: Facilitating Asynchronous Patient-
+Provider Communication with Large-Language-Model. 1, 1 (October 2023), 32 pages. (Under Review)
+      <a href="https://arxiv.org/abs/2309.09357">[PDF]</a>
+      <a href="https://youtu.be/fMMDN7gZGjs">[Video]</a>
+    </h3>
+    <ul style="list-style: disc; padding-left: 20px;">
+      <li>Advisor: Professor Dakuo Wang, Northeastern University</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; float: center;">
+    <img src="assets/../../assets/project_thumbnails/chatbot_study.png" height="150" />
+  </div>
+  <div style="flex: 2; padding: 20px;">
+    <p style="margin-top: 0;">A Pre-study of The Effects of Empathy and Personality of Chatbots on Increasing The Intention of Chatbot Continuance
+      <a href="https://drive.google.com/file/d/1R8OSR61UOyUseOvf2t_uAYz-JDCtbojh/view?usp=drive_link">[PDF]</a>
+    </h3>
+    <ul style="list-style: disc; padding-left: 20px;">
+      <li>Advisor: Professor Mark Newman, Professor Pedja Klasnja, University of Michigan, Ann Arbor</li>
+      <li>Working with PhD student Yuxuan Li at UMSI</li>
+    </ul>
+  </div>
+</div>
+
+
+<!-- See my research projects here -->
+
+<!-- Facebook for People with Dementia - Critique and Redesign
 - Accessibility / Older Adults / Interaction Design
 - Supervisor: Dr. Robin Brewer, University of Michigan, Ann Arbor
 - [Project Paper](https://drive.google.com/file/d/1yKaZgQ0l5ZG7jOVQh-FoweCtiBrTROZ9/view?usp=share_link)
@@ -48,7 +79,7 @@ Facebook for People with Dementia - Critique and Redesign
 Bilibili/Cake-Making: An Online Community Analysis
 - Social Computing / Online Communities
 - Supervisor: Dr. Nazanin Andalibi, University of Michigan, Ann Arbor
-- [Project Report](https://drive.google.com/file/d/1yKaZgQ0l5ZG7jOVQh-FoweCtiBrTROZ9/view?usp=share_link)
+- [Project Report](https://drive.google.com/file/d/1yKaZgQ0l5ZG7jOVQh-FoweCtiBrTROZ9/view?usp=share_link)  -->
 
 
 <!-- # UX Research and Design --> 
