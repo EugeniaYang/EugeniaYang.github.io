@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+See my latest CV [here](https://github.com/EugeniaYang/Ziqi-Yang-CV/blob/13a5c12c70548da422513be155b8888011046d06/Ziqi_Yang_CV.pdf)
 ## EDUCATION
 ### University of Michigan, Ann Arbor
 Master of Science in Information (User Experience/Human-Computer Interaction) (GPA: 3.92/4.0)
@@ -29,20 +29,10 @@ Shanghai, China
 Sept. 2018 - Aug. 2022
 - Coursework: AI Interaction Technologies, Ergonomics, Probability and Statistics, Data Structure and Algorithms, Methods and Tools for Big Data, Networks, Computer 
 
-## RESEARCH EXPERIENCE
-### A Pre-study of The Effects of Empathy and Personality of Chatbots on Increasing The Intention of Chatbot Continuance
-Health Informatics | Human Factors | Chatbots and AI | Interview and Survey
-
-Ann Arbor, MI
-Oct. 2022 - Present
-- Supervisor: Dr. Mark Newman, University of Michigan, Ann Arbor
-
-
-- Investigate the role of human factors including empathy, affinity, and trust in building long-term relationships between users and chatbots in a fitness app, design experiment and test hypothesis
-- Make and revise 4 scenarios, scripts and prototypes, conduct 6 pilot study interviews, analyze feedback and results
 
 
 
+## PROJECT EXPERIENCE
 
 ### Facebook for People with Dementia - Critique and Redesign
 Accessibility | Older Adults | Interaction Design
@@ -63,10 +53,6 @@ Jan. 2022 - Mar. 2022
 - Supervisor: Dr. Nazanin Andalibi, University of Michigan, Ann Arbor
 - Propose research plan for video content-creating platform Bilibili Cake-Making channel based on relevant literature
 - Uncover trends, interaction variation and ​​social etiquette by conducting community observation with a focus in bullet screens creator-creator, creator-audience interaction
-
-
-## PROJECT EXPERIENCE
-
 
 ### Food Insecurity in the United States - Data Analysis and Visualization
 Student Data Analyst
