@@ -25,51 +25,51 @@ and [Portfolio](https://ziqis-portfolio.webflow.io/)
 {% include research-highlight.html %}
 <div>
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; float: center">
-    <img src="assets/../../assets/project_thumbnails/doctor-563428_1280.jpg" height="150" />
+    <div style="flex: 1; float: center">
+      <img src="assets/../../assets/project_thumbnails/doctor-563428_1280.jpg" height="150" />
+    </div>
+    <div style="flex: 2; padding: 20px;">
+      <p style="margin-top: 0;"><strong>Ziqi Yang</strong>, Jiachen Li, Bingsheng Yao, Xuhai Xu, Nawar Shara, Guodong Gao, Dakuo Wang. 2023.
+  Communication Challenges for Cancer Care and LLM Opportunities. (Work in Progress for CSCW’24)
+      </p>
+      <ul style="list-style: disc; padding-left: 20px;">
+        <li>Advisor: Professor Dakuo Wang, Northeastern University</li>
+      </ul>
+    </div>
   </div>
-  <div style="flex: 2; padding: 20px;">
-    <p style="margin-top: 0;"><strong>Ziqi Yang</strong>, Jiachen Li, Bingsheng Yao, Xuhai Xu, Nawar Shara, Guodong Gao, Dakuo Wang. 2023.
-Communication Challenges for Cancer Care and LLM Opportunities. (Work in Progress for CSCW’24)
-    </h3>
-    <ul style="list-style: disc; padding-left: 20px;">
-      <li>Advisor: Professor Dakuo Wang, Northeastern University</li>
-    </ul>
+  
+  
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 1; float: center;">
+      <img src="assets/../../assets/project_thumbnails/talk2care.png" height="150" />
+    </div>
+    <div style="flex: 2; padding: 20px;">
+      <p style="margin-top: 0;"><strong>Ziqi Yang</strong>, Xuhai Xu, Bingsheng Yao, Shao Zhang, Ethan Rogers, Stephen Intille, Nawar Shara,
+  Guodong (Gordon) Gao, and Dakuo Wang. 2023. Talk2Care: Facilitating Asynchronous Patient-
+  Provider Communication with Large-Language-Model. 1, 1 (October 2023), 32 pages. (Under Review)
+        <a href="https://arxiv.org/abs/2309.09357">[PDF]</a>
+        <a href="https://youtu.be/fMMDN7gZGjs">[Video]</a>
+    </p>
+      <ul style="list-style: disc; padding-left: 20px;">
+        <li>Advisor: Professor Dakuo Wang, Northeastern University</li>
+      </ul>
+    </div>
   </div>
-</div>
-
-
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; float: center;">
-    <img src="assets/../../assets/project_thumbnails/talk2care.png" height="150" />
+  
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 1; float: center;">
+      <img src="assets/../../assets/project_thumbnails/chatbot_study.png" height="150" />
+    </div>
+    <div style="flex: 2; padding: 20px;">
+      <p style="margin-top: 0;">A Pre-study of The Effects of Empathy and Personality of Chatbots on Increasing The Intention of Chatbot Continuance
+        <a href="https://drive.google.com/file/d/1R8OSR61UOyUseOvf2t_uAYz-JDCtbojh/view?usp=drive_link">[PDF]</a>
+    </p>
+      <ul style="list-style: disc; padding-left: 20px;">
+        <li>Advisor: Professor Mark Newman, Professor Pedja Klasnja, University of Michigan, Ann Arbor</li>
+        <li>Working with PhD student Yuxuan Li at UMSI</li>
+      </ul>
+    </div>
   </div>
-  <div style="flex: 2; padding: 20px;">
-    <p style="margin-top: 0;"><strong>Ziqi Yang</strong>, Xuhai Xu, Bingsheng Yao, Shao Zhang, Ethan Rogers, Stephen Intille, Nawar Shara,
-Guodong (Gordon) Gao, and Dakuo Wang. 2023. Talk2Care: Facilitating Asynchronous Patient-
-Provider Communication with Large-Language-Model. 1, 1 (October 2023), 32 pages. (Under Review)
-      <a href="https://arxiv.org/abs/2309.09357">[PDF]</a>
-      <a href="https://youtu.be/fMMDN7gZGjs">[Video]</a>
-    </h3>
-    <ul style="list-style: disc; padding-left: 20px;">
-      <li>Advisor: Professor Dakuo Wang, Northeastern University</li>
-    </ul>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; float: center;">
-    <img src="assets/../../assets/project_thumbnails/chatbot_study.png" height="150" />
-  </div>
-  <div style="flex: 2; padding: 20px;">
-    <p style="margin-top: 0;">A Pre-study of The Effects of Empathy and Personality of Chatbots on Increasing The Intention of Chatbot Continuance
-      <a href="https://drive.google.com/file/d/1R8OSR61UOyUseOvf2t_uAYz-JDCtbojh/view?usp=drive_link">[PDF]</a>
-    </h3>
-    <ul style="list-style: disc; padding-left: 20px;">
-      <li>Advisor: Professor Mark Newman, Professor Pedja Klasnja, University of Michigan, Ann Arbor</li>
-      <li>Working with PhD student Yuxuan Li at UMSI</li>
-    </ul>
-  </div>
-</div>
 
 </div>
 <!-- See my research projects here -->
