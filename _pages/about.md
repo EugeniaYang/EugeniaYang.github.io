@@ -21,6 +21,9 @@ and [Portfolio](https://ziqis-portfolio.webflow.io/)
 
 
 # Research Highlights
+
+{% include research-highlight.html %}
+<div>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; float: center">
     <img src="assets/../../assets/project_thumbnails/doctor-563428_1280.jpg" height="150" />
@@ -68,7 +71,7 @@ Provider Communication with Large-Language-Model. 1, 1 (October 2023), 32 pages.
   </div>
 </div>
 
-
+</div>
 <!-- See my research projects here -->
 
 <!-- Facebook for People with Dementia - Critique and Redesign
