@@ -22,7 +22,7 @@ and [Portfolio](https://ziqis-portfolio.webflow.io/)
 
 # Research Highlights
 
-{% include research-highlight.html %}
+<!-- {% include research-highlight.html %} -->
 <div>
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; float: center">
