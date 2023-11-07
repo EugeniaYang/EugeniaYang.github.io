@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 See my latest CV [here](https://github.com/EugeniaYang/Ziqi-Yang-CV/blob/13a5c12c70548da422513be155b8888011046d06/Ziqi_Yang_CV.pdf)
 ## EDUCATION
 ### University of Michigan, Ann Arbor
