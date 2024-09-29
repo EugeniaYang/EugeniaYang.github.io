@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 Hi! My name is Ziqi Yang 杨子祺. 
-Starting Fall 2024, I have been an Informatics PhD student at **University of California, Irvine**, Donald Bren School of Informatics and Computer Science. My research interests lies in human-computer interaction and personal health informatics. I am lucky to be advised by **Prof. Yunan Chen** and working with **Prof. Daniel Epstein** on my research project(s) :)
+Starting Fall 2024, I have been an Informatics PhD student at **University of California, Irvine**, Donald Bren School of Informatics and Computer Science. My research interests lies in human-computer interaction and personal health informatics. I am lucky to be advised by [**Prof. Yunan Chen**](https://www.informatics.uci.edu/explore/faculty-profiles/yunan-chen/) and working with [**Prof. Daniel Epstein**](https://depstein.net/) at the [HAI Lab](https://hai.ics.uci.edu/) on my research project(s) :)
 
-Prior to joining UCI, I got my master's degree in Information Science at **the University of Michigan, Ann Arbor** majoring in User Experience and Human-Computer Interaction, where I worked with Prof. Mark Newman and Prof. Pedja Klasnja on projects on mobile health interventions. I also worked with Prof. Dakuo Wang at Northeastern University studying LLMs for patient-provider communication for older adults and cancer patients.
+Prior to joining UCI, I got my master's degree in Information Science at **the University of Michigan, Ann Arbor** majoring in User Experience and Human-Computer Interaction, where I worked with [Prof. Mark Newman](https://mwnewman.people.si.umich.edu/) and [Prof. Pedja Klasnja](https://www.pedjaklasnja.com/) on projects on mobile health interventions. I also worked with [Prof. Dakuo Wang](https://www.dakuowang.com/) at Northeastern University studying LLMs for patient-provider communication for older adults and cancer patients.
 
 I gradutated from Shanghai Jiao Tong University with a bachelor's degree in Electrical and Computer Engineering in 2022. I also took electives in Industrial Design and social sciences from SJTU School of Design and University of California, Berkeley. 
 
@@ -20,6 +20,9 @@ In my spare time, I enjoy travelling, getting around local areas, photography,an
 See more in my recent [CV](https://github.com/EugeniaYang/Ziqi-Yang-CV/blob/13a5c12c70548da422513be155b8888011046d06/Ziqi_Yang_CV.pdf)
 and [Portfolio](https://ziqis-portfolio.webflow.io/)
 
+# Recent Travels (Conference and Leisure)
+- Oct 5th to Oct 9th, 2024: UbiComp'24. Melbourne, Australia. (Meet with me!)
+- Summer 2024: Stockholm, Sweden. Barcelona & Sevilla, Spain. Lisbon, Portugal. Yellowstone National Park, WY... (Wonderful places to visit.)
 
 # Research Highlights
 
