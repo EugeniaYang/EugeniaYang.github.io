@@ -59,9 +59,10 @@ and [Portfolio](https://ziqis-portfolio.webflow.io/)
       </p>
     </div>
   </div>
+</div>
 
 ### Mobile Health Interventions
-
+<div>
 <div style="display: flex; align-items: center;">
   </div>
 
