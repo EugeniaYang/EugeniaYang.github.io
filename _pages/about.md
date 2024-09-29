@@ -21,39 +21,45 @@ and [Portfolio](https://ziqis-portfolio.webflow.io/)
 
 # Research Highlights
 
+### LLM CAs to Address Patient-Provider Communication Challenges
+
 <div>
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; float: center">
-      <img src="assets/../../assets/project_thumbnails/doctor-563428_1280.jpg" height="150" />
-    </div>
-    <div style="flex: 2; padding: 20px;">
-      <p style="margin-top: 0;"><strong>Ziqi Yang</strong>, Jiachen Li, Bingsheng Yao, Xuhai Xu, Nawar Shara, Guodong Gao, Dakuo Wang. 2023.
-  Communication Challenges for Cancer Care and LLM Opportunities. (Work in Progress for CSCW’24)
-      </p>
-      <ul style="list-style: disc; padding-left: 20px;">
-        <li>Advisor: Professor Dakuo Wang, Northeastern University</li>
-      </ul>
-    </div>
-  </div>
-  
-  
   <div style="display: flex; align-items: center;">
     <div style="flex: 1; float: center;">
       <img src="assets/../../assets/project_thumbnails/talk2care.png" height="150" />
     </div>
     <div style="flex: 2; padding: 20px;">
-      <p style="margin-top: 0;"><strong>Ziqi Yang</strong>, Xuhai Xu, Bingsheng Yao, Shao Zhang, Ethan Rogers, Stephen Intille, Nawar Shara,
-  Guodong (Gordon) Gao, and Dakuo Wang. 2023. Talk2Care: Facilitating Asynchronous Patient-
-  Provider Communication with Large-Language-Model. 1, 1 (October 2023), 32 pages. (Under Review)
-        <a href="https://arxiv.org/abs/2309.09357">[PDF]</a>
+      <p style="margin-top: 0;">
+      <strong>Ziqi Yang<sup>*</sup></strong>, Xuhai Xu<sup>*</sup>, Bingsheng Yao, Ethan Rogers, Shao Zhang, Stephen Intille, Nawar Shara, Guodong Gordon Gao, and Dakuo Wang. 2024. Talk2Care: An LLM-based Voice Assistant for Communication between Healthcare Providers and Older Adults. <em>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</em> 8, 2, Article 73 (May 2024), 35 pages. 
+        <a href="https://doi.org/10.1145/3659625">[PDF]</a>
         <a href="https://youtu.be/fMMDN7gZGjs">[Video]</a>
     </p>
-      <ul style="list-style: disc; padding-left: 20px;">
+    <ul style="list-style: disc; padding-left: 20px;">
         <li>Advisor: Professor Dakuo Wang, Northeastern University</li>
       </ul>
     </div>
   </div>
-  
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 2; padding: 20px;">
+      <p style="margin-top: 0;">
+      <strong>Ziqi Yang<sup>*</sup></strong>, Yuxuan Lu<sup>*</sup>, Jennifer Bagdasarian, Vedant Das Swain, Ritu Agarwal, Collin Campbell, Waddah Al-Refaire, Jehan El-Bayoumi, Guodong (Gordon) Gao, Nawar Shara, Dakuo Wang, Bingsheng Yao. RECOVER: Designing a Large Language Model-based Remote Patient Monitoring System for Postoperative GI Cancer Care <em>(Submitted to CHI'25)</em>
+    </p>
+    </div>
+        <div style="flex: 2; padding: 20px;">
+      <p style="margin-top: 0;"><strong>Ziqi Yang</strong>, Xuhai Xu, Bingsheng Yao, Jiachen Li, Jennifer Bagdasarian, Guodong Gao, Dakuo Wang.
+      Is AI a Silver Bullet? Exploring Challenges and Opportunities of Patient-Provider Communication in Post-Treatment Cancer Care
+      <a href="https://arxiv.org/abs/2404.13409">[PDF]</a>
+      <em>(Submitted to CSCW’25)</em>
+      </p>
+    </div>
+  </div>
+
+### Mobile Health Interventions
+
+<div style="display: flex; align-items: center;">
+  </div>
+
   <div style="display: flex; align-items: center;">
     <div style="flex: 1; float: center;">
       <img src="assets/../../assets/project_thumbnails/chatbot_study.png" height="150" />
