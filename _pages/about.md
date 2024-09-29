@@ -15,6 +15,8 @@ Prior to joining UCI, I got my master's degree in Information Science at **the U
 
 I gradutated from Shanghai Jiao Tong University with a bachelor's degree in Electrical and Computer Engineering in 2022. I also took electives in Industrial Design and social sciences from SJTU School of Design and University of California, Berkeley. 
 
+In my spare time, I enjoy travelling, getting around local areas, photography,and taking up new sports/exercise. I am always happy to meet new ideas, opportunities and interdisciplinary collaborators! Please feel free to reach out if you are interested in my work, have an idea for us to work together, or would simply like to chat!
+
 See more in my recent [CV](https://github.com/EugeniaYang/Ziqi-Yang-CV/blob/13a5c12c70548da422513be155b8888011046d06/Ziqi_Yang_CV.pdf)
 and [Portfolio](https://ziqis-portfolio.webflow.io/)
 
