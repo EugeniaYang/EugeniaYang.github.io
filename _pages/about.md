@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Ziqi Yang 杨子祺. I am a Master's student at University of Michigan - Ann Arbor majoring in User Experience and Human-Computer Interaction. 
+Hi! My name is Ziqi Yang 杨子祺. 
+Starting Fall 2024, I have been an Informatics PhD student at **University of California, Irvine**, Donald Bren School of Informatics and Computer Science. My research interests lies in human-computer interaction and personal health informatics. I am lucky to be advised by **Prof. Yunan Chen** and working with **Prof. Daniel Epstein** on my research project(s) :)
 
-I will be graduating in December 2023 and **I am actively looking for research opportunities and applying for 24Fall PhD programs in HCI.**
+Prior to joining UCI, I got my master's degree in Information Science at **the University of Michigan, Ann Arbor** majoring in User Experience and Human-Computer Interaction, where I worked with Prof. Mark Newman and Prof. Pedja Klasnja on projects on mobile health interventions. I also worked with Prof. Dakuo Wang at Northeastern University studying LLMs for patient-provider communication for older adults and cancer patients.
 
 I gradutated from Shanghai Jiao Tong University with a bachelor's degree in Electrical and Computer Engineering in 2022. I also took electives in Industrial Design and social sciences from SJTU School of Design and University of California, Berkeley. 
 
-My research interests lie broadly in HCI, involving human-AI collaboration, social computing and accessibility for health and well-being, computer supported collaborative work, and education practices.
-
-See more in my most recent [CV](https://github.com/EugeniaYang/Ziqi-Yang-CV/blob/13a5c12c70548da422513be155b8888011046d06/Ziqi_Yang_CV.pdf)
+See more in my recent [CV](https://github.com/EugeniaYang/Ziqi-Yang-CV/blob/13a5c12c70548da422513be155b8888011046d06/Ziqi_Yang_CV.pdf)
 and [Portfolio](https://ziqis-portfolio.webflow.io/)
 
 
